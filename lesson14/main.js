@@ -1,5 +1,4 @@
 /**
-* http://www.karlsims.com/rd.html
 * 分型树
 */
 const windowWidth = 800;
