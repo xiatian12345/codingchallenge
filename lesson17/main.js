@@ -1,5 +1,5 @@
 /**
-* SuperShape 超椭圆
+* SuperEllipse 超椭圆
 * https://zh.wikipedia.org/wiki/%E8%B6%85%E6%A9%A2%E5%9C%93
 * http://paulbourke.net/geometry/supershape/
 */
